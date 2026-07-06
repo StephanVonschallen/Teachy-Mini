@@ -1,5 +1,5 @@
 # Teachy Mini
-Tutoring robot software for university students built on Reachy Mini (Pollen Robotics). Used for the study: "Teachy Mini: A Knowledge-Based Generative Social Tutoring Robot for Higher Education"
+Tutoring robot prototype for university students built on Reachy Mini (Pollen Robotics). Used for the study: "Teachy Mini: A Knowledge-Based Generative Social Tutoring Robot for Higher Education"
 Part of the research project: "Knowledge-based Generative Social Robots for Tutoring in Higher Education" at Zurich University of Applied Science, Institue of Information Systems. 
 
 ---
