@@ -74,11 +74,11 @@ The same Chrome URL applies: `http://127.0.0.1:7860`.
 
 ## Experiment Design
 
-**V1 (Knowledge-Based Didactics):**
+**Knowledge-Based Design:**
 Combines three knowledge layers — Self-Knowledge (assertiveness and style), User-Knowledge (personalization derived from the onboarding dialogue), and Context-Knowledge (PDF/RAG content plus didactic methods: scaffolding, nudging, Socratic questioning).
 
-**V2 (Basic):**
-Identical onboarding flow, but no KBD layer is applied. The robot behaves as a neutral AI tutor without personalization or scaffolding logic.
+**Baseline:**
+Identical onboarding flow, but no KBD layer is applied. The robot behaves as a AI tutor without personalization, empathic engagement, or scaffolding logic.
 
 ---
 
