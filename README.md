@@ -113,4 +113,4 @@ This project is based on the Reachy Mini Conversation App by Pollen Robotics.
 Original repository:
 https://github.com/pollen-robotics/reachy_mini_conversation_app
 
-This project extends/modifies the original implementation for educational and research purposes.
+This project extends/modifies the original implementation for educational and research purposes. Additional mechanisms were introduced to improve robustness in multi-turn spoken interaction, including reactive responses to confusion or frustration, safeguards against overlapping responses, recovery from incomplete model responses, suppression of premature silent gestures, and subtle non-verbal idle movements during pauses.
