@@ -103,10 +103,6 @@ Stop the running terminals with `Ctrl+C`. If a terminal does not respond:
 
 ---
 
-## Repository
-
-https://github.com/Kaufmann11/Reachy-Mini-Tutor
-
 ## Acknowledgements
 This project is based on the Reachy Mini Conversation App by Pollen Robotics.
 
